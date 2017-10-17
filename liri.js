@@ -9,8 +9,47 @@ var firstArgument = process.argv[2];
 var secondArgument = process.argv[3];
 
 
+if (firstArgument === "do-what-it-says")
+{
+	fs.readFile("random.txt", "utf8", function(error, data)
+	{
+	  if (error)
+	  {
+	    return console.log(error);
+	  }
+
+	  var dataArr = data.split(",");
+
+	  if (dataArr[0] === "my-tweets")
+	  {
+	  	mytweets();
+	  } else if (dataArr[0] === "spotify-this-song")
+	  {
+	  	spotifyThisSong(dataArr[1]);
+	  } else if (dataArr[0] === "movie-this")
+	  {
+	  	movieThis(dataArr[1]);
+	  }
+	});
+} else if (firstArgument === "my-tweets")
+{ 
+	mytweets();
+} else if (firstArgument === "spotify-this-song")
+{
+	spotifyThisSong();
+} else if (firstArgument === "movie-this")
+{
+	movieThis();
+} else
+{
+	logIt("Command Not Recognized!");
+	logIt("");
+}
+
+
+
 //Twitter
-if (firstArgument === "my-tweets")
+function mytweets()
 {
 	var client = new twitter({
 	  consumer_key: keys.twitterKeys.consumer_key,
@@ -31,21 +70,21 @@ if (firstArgument === "my-tweets")
 	  	}
 
 	  }
-	});
+	});	
 }
 
 
 //Spotify
-if (firstArgument === "spotify-this-song")
+function spotifyThisSong(song)
 {
-  if (secondArgument)
+  if (secondArgument && firstArgument != "do-what-it-says")
   {
     var song = "";
     for (var i = 3; i < process.argv.length; i++)
     {
       song += " " + process.argv[i];
     }
-  } else
+  } else if (firstArgument != "do-what-it-says")
   {
   	song = "The Sign";
   }
@@ -57,7 +96,7 @@ if (firstArgument === "spotify-this-song")
     
 	spotify.search({ type: 'track', query: song }, function(error, data)
 	{
-		for (var j = 0; j < 10; j++)
+		for (var j = 0; j < 7; j++)
 		{
       logIt("Artist: " + data.tracks.items[j].artists[0].name);
       logIt("Song: " + data.tracks.items[j].name);
@@ -69,16 +108,16 @@ if (firstArgument === "spotify-this-song")
 }
 
 
-if (firstArgument === "movie-this")
+function movieThis(movie)
 {
-	if (secondArgument)
+	if (secondArgument && firstArgument != "do-what-it-says")
   {
     var movie = "";
     for (var i = 3; i < process.argv.length; i++)
     {
       movie += "+" + process.argv[i];
     }
-  } else
+  } else if (firstArgument != "do-what-it-says")
   {
   	movie = "Mr.+Nobody";
   }
@@ -122,13 +161,6 @@ if (firstArgument === "movie-this")
 }
 
 
-if (firstArgument === "do-what-it-says")
-{
-
-
-
-}
-
 function logIt(itemToLog)
 {
 	console.log(itemToLog);
@@ -140,3 +172,4 @@ function logIt(itemToLog)
     }
   });
 }
+
