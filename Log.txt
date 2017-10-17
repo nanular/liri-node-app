@@ -1,227 +1,76 @@
-Artist: Harry Styles
-Song: Sign of the Times
-Album: Sign of the Times
-Preview: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Ty Dolla $ign
-Song: Love U Better (feat. Lil Wayne & The-Dream)
-Album: Love U Better (feat. Lil Wayne & The-Dream)
-Preview: https://p.scdn.co/mp3-preview/9ef6e0e3e32b4220ac4ed1539ac1e4a47bf34d5d?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Essential Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Ty Dolla $ign
-Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Preview: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Harry Styles
-Song: Sign of the Times
-Album: Harry Styles
-Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Jeremih
-Song: Impatient
-Album: Late Nights: The Album
-Preview: null
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Ace of Base
-Song: The Sign
-Album: The Sign (US Album) [Remastered]
-Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Mac Miller
-Song: Cinderella (feat. Ty Dolla $ign)
-Album: The Divine Feminine
-Preview: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=57c7e6aa3eec41348c3531930c98260f
+Artist: Manuel Costa
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: LANY
-Song: Sign Of The Times - Spotify Studios NYC
-Album: Spotify Singles
-Preview: null
+Movie Title: Mr. Nobody
+Year: 2009
+IMDb Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
 
-Artist: Lil Wayne
-Song: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
-Album: Suicide Squad: The Album
-Preview: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=57c7e6aa3eec41348c3531930c98260f
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
-Artist: Juicy J
-Song: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
-Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
-Preview: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=57c7e6aa3eec41348c3531930c98260f
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
-Artist: Harry Styles
-Song: Sign of the Times
-Album: Sign of the Times
-Preview: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=57c7e6aa3eec41348c3531930c98260f
 
-Artist: Ty Dolla $ign
-Song: Love U Better (feat. Lil Wayne & The-Dream)
-Album: Love U Better (feat. Lil Wayne & The-Dream)
-Preview: https://p.scdn.co/mp3-preview/9ef6e0e3e32b4220ac4ed1539ac1e4a47bf34d5d?cid=57c7e6aa3eec41348c3531930c98260f
+Movie Title: Eternal Sunshine of the Spotless Mind
+Year: 2004
+IMDb Rating: 8.3
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English
 
-Artist: Ty Dolla $ign
-Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Preview: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=57c7e6aa3eec41348c3531930c98260f
+Plot: When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.
 
-Artist: Harry Styles
-Song: Sign of the Times
-Album: Harry Styles
-Preview: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=57c7e6aa3eec41348c3531930c98260f
+Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
 
-Artist: Jeremih
-Song: Impatient
-Album: Late Nights: The Album
-Preview: null
 
-Artist: Ace of Base
-Song: The Sign
-Album: The Sign (US Album) [Remastered]
-Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=57c7e6aa3eec41348c3531930c98260f
+Tue Oct 17 02:45:12 +0000 2017
+This is a second tweet. YAY!!
 
-Artist: Mac Miller
-Song: Cinderella (feat. Ty Dolla $ign)
-Album: The Divine Feminine
-Preview: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=57c7e6aa3eec41348c3531930c98260f
+Tue Oct 17 01:59:42 +0000 2017
+Testing, Testing...
+
+Tue Oct 17 22:40:50 +0000 2017
+Tweet # 3 ...  I've never used Twitter before... sorry for the lack of tweets
+
+Tue Oct 17 02:45:12 +0000 2017
+This is a second tweet. YAY!!
+
+Tue Oct 17 01:59:42 +0000 2017
+Testing, Testing...
 
 Command Not Recognized!
-Artist: A Day To Remember
-Song: Forgive and Forget
-Album: Bad Vibrations (Deluxe Edition)
-Preview: https://p.scdn.co/mp3-preview/ecb8593e4e421ebddaa1da905879f7bc43b65fd9?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Rich Homie Quan
-Song: Lord Forgive Me
-Album: Back To The Basics
-Preview: null
-
-Artist: The Smashing Pumpkins
-Song: To Forgive
-Album: Mellon Collie and the Infinite Sadness (2012 - Remaster)
-Preview: null
-
-Artist: Ivan B
-Song: Back to You
-Album: Forgive Me for My Honesty
-Preview: https://p.scdn.co/mp3-preview/f516156f1d0fe49bece5bd0fae0dd242cca096c4?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Mudcrutch
-Song: I Forgive It All
-Album: 2
-Preview: https://p.scdn.co/mp3-preview/e9d4aea08c622c90c8d1a39c419dbc7b99aec690?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: The Spinners
-Song: Working My Way Back To You/Forgive Me, Girl
-Album: Smooth And Sweet
-Preview: https://p.scdn.co/mp3-preview/66bdf15fe621077e6e2c7d7158360d481684bc33?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Nik Day
-Song: Forgive
-Album: EFY 2017 The Way to Become (Especially for Youth)
-Preview: https://p.scdn.co/mp3-preview/23834cb4f2bc64ded9bf8cb269729a67eef6bab4?cid=57c7e6aa3eec41348c3531930c98260f
-
-Command Not Recognized!
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Essential Backstreet Boys
-Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: Millennium
-Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Anthem Lights
-Song: I Want It That Way
-Album: Covers Part IV
-Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Glee Cast
-Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: 90 Sweet 90s Hits!
-Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Manuel Costa
-Song: I Want It That Way
-Album: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Essential Backstreet Boys
-Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: Millennium
-Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Anthem Lights
-Song: I Want It That Way
-Album: Covers Part IV
-Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Glee Cast
-Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: 90 Sweet 90s Hits!
-Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Manuel Costa
-Song: I Want It That Way
-Album: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Hits--Chapter One
-
-Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=57c7e6aa3eec41348c3531930c98260f
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: The Essential Backstreet Boys
-Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: Millennium
-Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Anthem Lights
-Song: I Want It That Way
-Album: Covers Part IV
-Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Glee Cast
-Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album: 90 Sweet 90s Hits!
-Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=57c7e6aa3eec41348c3531930c98260f
-
-Artist: Manuel Costa
-Song: I Want It That Way
-Album: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=57c7e6aa3eec41348c3531930c98260f
 

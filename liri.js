@@ -154,7 +154,6 @@ function movieThis(movie)
 			logIt("Actors: " + JSON.parse(body).Actors);
 			logIt("");
 			logIt("");
-			console.log(body);
 		}
 	});
 
